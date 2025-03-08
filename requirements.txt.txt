@@ -1,7 +1,7 @@
-torchvision==0.17.0
-torchaudio==2.2.0
-ultralytics
-opencv-python
 numpy
 pillow
+streamlit
+torch==2.1.2
+ultralytics
+opencv-python
 streamlit torch==2.1.2
