@@ -7,7 +7,7 @@ import os
 import requests
 
 # GitHub Raw URL for the model (Replace with your GitHub link)
-MODEL_URL = "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/LTV_HTV.pt"
+MODEL_URL = "https://github.com/Sharjeel-Saleem-06/MODEL/blob/main/LTV_HTV.pt"
 MODEL_PATH = "LTV_HTV.pt"
 
 # Function to download model from GitHub if not available locally
